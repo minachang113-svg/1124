@@ -1,0 +1,10 @@
+{
+  "name": "dongshi-persimmon-pear",
+  "version": "1.0.0",
+  "private": true,
+  "description": "台中東勢柿梨創生地方體驗與產地直達平台",
+  "main": "server.js",
+  "scripts": { "start": "node server.js", "dev": "node --watch server.js" },
+  "engines": { "node": ">=18" },
+  "dependencies": { "express": "^4.21.2" }
+}
